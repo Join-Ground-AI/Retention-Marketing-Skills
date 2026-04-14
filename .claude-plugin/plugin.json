@@ -1,0 +1,13 @@
+{
+  "name": "retention-marketing-skills",
+  "version": "1.0.0",
+  "description": "13 AI-powered email & SMS retention workflows for DTC and ecommerce teams — flow auditing, segmentation, abandonment recovery, winback, SMS strategy, campaign planning, and performance optimization.",
+  "author": {
+    "name": "Ground",
+    "url": "https://joinground.com"
+  },
+  "homepage": "https://joinground.com",
+  "repository": "https://github.com/Join-Ground-AI/Retention-Marketing-Skills",
+  "license": "MIT",
+  "keywords": ["dtc", "ecommerce", "retention", "email", "sms", "klaviyo", "attentive", "lifecycle", "marketing", "flows", "segmentation"]
+}
